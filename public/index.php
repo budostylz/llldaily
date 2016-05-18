@@ -1,3 +1,9 @@
+
+<?php
+echo 'Hello World! You are visiting ';
+echo $_SERVER['SERVER_NAME'];
+?>
+
 <!DOCTYPE HTML>
 <!--
 	Miniport by HTML5 UP
